@@ -1,5 +1,7 @@
 # Titanic dataset Analysis
 
+![Titanic Dataset](titanic.png)
+
 The analysis of the Titanic dataset primarily revolves around investigating the factors
 influencing survival rates among passengers aboard the Titanic.
 By scrutinizing passenger attributes like age, gender, class, and family relationships,
